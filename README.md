@@ -10,49 +10,31 @@
 
 <br><br>
 
-<img
-src="https://uploads.onecompiler.io/446pmb7jg/1788719827161/ai-generated-circuit-board-background-free-photo.jpg"
-width="32%"
-alt="Technology circuit board"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=42&duration=2800&pause=900&color=0B72E7&center=true&vCenter=true&width=900&height=70&lines=TODD+ADRIAN" alt="Todd Adrian">
 
-<img
-src="https://uploads.onecompiler.io/446pmb7jg/1788719837389/OIP.webp"
-width="32%"
-alt="Blockchain technology"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=21&duration=2400&pause=800&color=63DCFF&center=true&vCenter=true&width=950&height=50&lines=BLOCKCHAIN+%26+WEB3+DEVELOPER;SMART+CONTRACT+ENGINEER;DEFI+%7C+WEB3+PAYMENTS+%7C+NFT+%7C+RWA;BUILDING+BLOCKCHAIN+PRODUCTS+THAT+SHIP" alt="Blockchain and Web3 Developer">
 
-<img
-src="https://uploads.onecompiler.io/446pmb7jg/1788719846807/3d-technology-1920-x-1080-wallpaper-3ccx4ta081dvi9wh.jpg"
-width="32%"
-alt="3D technology"
-/>
+<br>
 
-<br><br>
-
-# TODD ADRIAN
-
-### Blockchain & Web3 Developer
-
-**Smart Contracts · DeFi · Web3 Payments · NFT · RWA · Enterprise Blockchain**
+**Kenya · Global**
 
 </div>
 
 ---
 
-## ABOUT
+# ABOUT
 
 I'm **Todd Adrian**, a blockchain and Web3 developer based in Kenya.
 
-I design and build blockchain-powered products, smart contracts and decentralized systems for businesses, startups, fintechs and Web3 teams.
+I design and build blockchain-powered products, smart contracts and decentralized applications for businesses, startups, fintechs and Web3 teams.
 
-My focus is on turning blockchain technology into practical systems that address real business requirements.
+My focus is on turning blockchain technology into **practical systems that solve real problems**.
 
-### Core areas
+My work spans:
 
 * Smart contract development
 * Decentralized applications
-* DeFi systems
+* DeFi
 * Stablecoin payments
 * NFT infrastructure
 * Real-world asset tokenization
@@ -60,17 +42,27 @@ My focus is on turning blockchain technology into practical systems that address
 * Provenance and traceability
 * Enterprise blockchain integration
 
+> **Blockchain where it creates measurable value.**
+
+<div align="center">
+
+<a href="https://wa.me/254746103062">
+  <img src="https://img.shields.io/badge/WhatsApp-%2B254%20746%20103%20062-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contact Todd Adrian on WhatsApp">
+</a>
+
+</div>
+
 ---
 
 # WHAT I DO
 
 ## Smart Contract Development
 
-I build Solidity smart contracts around defined business rules and on-chain state.
+I develop Solidity smart contracts around defined business rules, permissions, ownership and on-chain state.
 
-Typical implementations include:
+Typical systems include:
 
-**Tokens · Staking · Payment contracts · Asset registries · Issuance systems · Access control · Transfer restrictions**
+`Tokens` · `Staking` · `Payment Contracts` · `Asset Registries` · `Issuance Systems` · `Access Control` · `Transfer Restrictions`
 
 ---
 
@@ -80,27 +72,27 @@ I build Web3 applications that connect users to blockchain systems through pract
 
 Typical functionality includes:
 
-**Wallet connection · On-chain reads · Transactions · Dashboards · Verification · User workflows**
+`Wallet Connection` · `On-Chain Reads` · `Transactions` · `Dashboards` · `Verification` · `User Workflows`
 
 ---
 
 ## DeFi
 
-I build and prototype decentralized finance applications and interfaces.
+I develop and prototype decentralized finance applications and interfaces.
 
 Examples include:
 
-**Staking · Rewards · Financial dashboards · Protocol integrations · Token-based workflows**
+`Staking` · `Rewards` · `Financial Dashboards` · `Protocol Integrations` · `Token-Based Workflows`
 
 ---
 
 ## Web3 Payments
 
-I develop blockchain payment workflows that can integrate with existing business systems.
+I develop blockchain payment workflows that can integrate into existing business systems.
 
 Examples include:
 
-**Stablecoin payments · Invoices · Payment links · Wallet checkout · QR payments · Payment verification**
+`Stablecoin Payments` · `Invoices` · `Payment Links` · `Wallet Checkout` · `QR Payments` · `Payment Verification`
 
 ---
 
@@ -110,27 +102,27 @@ I build NFT-based applications around ownership, access and digital experiences.
 
 Examples include:
 
-**Event tickets · Memberships · Collections · Digital passes · Token-gated experiences**
+`Event Tickets` · `Memberships` · `Collections` · `Digital Passes` · `Token-Gated Experiences`
 
 ---
 
 ## RWA & Tokenization
 
-I develop technical systems demonstrating how real-world and digital assets can be represented and managed on-chain.
+I build technical systems demonstrating how digital and real-world assets can be represented and controlled on-chain.
 
 Examples include:
 
-**Asset tokenization · Allowlisting · Controlled issuance · Transfer restrictions · Token supply controls**
+`Asset Tokenization` · `Allowlisting` · `Controlled Issuance` · `Transfer Restrictions` · `Supply Controls`
 
 ---
 
 ## Blockchain Verification
 
-Blockchain can provide independently verifiable records where transparency and integrity are important.
+Blockchain can provide independently verifiable records where integrity and transparency are important.
 
 Examples include:
 
-**Credentials · Certificates · Document hashes · Provenance · Asset verification**
+`Credentials` · `Certificates` · `Document Hashing` · `Provenance` · `Asset Verification`
 
 ---
 
@@ -140,17 +132,17 @@ I integrate blockchain functionality into existing products and business workflo
 
 Examples include:
 
-**SaaS · Fintech · Websites · Dashboards · Payment systems · Asset management systems**
+`SaaS` · `Fintech` · `Websites` · `Dashboards` · `Payment Systems` · `Asset Management`
 
 ---
 
-# SELECTED PROJECTS
+# SELECTED WORK
 
-## 01 — TD PAY
+## 01 — TD Pay
 
 ### Stablecoin Invoicing & Payment Infrastructure
 
-A non-custodial stablecoin payment prototype for business invoicing and on-chain payment verification.
+A non-custodial stablecoin payment prototype focused on business invoicing, USDC payments and on-chain transaction verification.
 
 **Technology**
 
@@ -162,20 +154,20 @@ A non-custodial stablecoin payment prototype for business invoicing and on-chain
 * USDC payments
 * Wallet connection
 * Payment verification
-* Shareable invoice workflow
+* Shareable invoice flow
 * Blockchain transaction verification
 
-### Repository
+**Repository**
 
-**https://github.com/TODD43/td-pay**
+https://github.com/TODD43/td-pay
 
 ---
 
-## 02 — TD STAKING
+## 02 — TD Staking
 
 ### DeFi Staking & Rewards
 
-A decentralized staking demonstration featuring deposits, withdrawals, balances and reward accounting.
+A decentralized staking demonstration featuring smart-contract deposits, withdrawals, balance tracking and reward accounting.
 
 **Technology**
 
@@ -190,13 +182,45 @@ A decentralized staking demonstration featuring deposits, withdrawals, balances 
 * Wallet integration
 * Smart-contract interactions
 
-### Repository
+**Repository**
 
-**https://github.com/TODD43/td-staking-dapp**
+https://github.com/TODD43/td-staking-dapp
 
 ---
 
-## 03 — TD NFT TICKETING
+## 03 — TD SupplyChain
+
+### Blockchain Provenance & Traceability
+
+An independent blockchain provenance concept exploring traceable digital records for real-world assets, products and projects.
+
+**Technology**
+
+`Solidity` `Provenance` `EVM` `Blockchain`
+
+**Features**
+
+* Asset registration
+* Lifecycle events
+* Location history
+* Evidence/document hashes
+* Public verification
+* Provenance records
+
+### Conceptual references
+
+https://0000345.oneapp.dev
+https://www.redtree-ke.com
+
+TD SupplyChain is an independent technology concept developed by **Todd Adrian**. These references do not imply ownership, partnership, endorsement, affiliation or authorization.
+
+**Repository**
+
+https://github.com/TODD43/td-supplychain-dapp
+
+---
+
+## 04 — TD NFT Ticketing
 
 ### NFT Event Pass & Membership System
 
@@ -214,17 +238,17 @@ A blockchain-based event ticketing and digital membership concept using NFTs.
 * Event passes
 * Wallet interaction
 
-### Repository
+**Repository**
 
-**https://github.com/TODD43/td-nft-ticketing**
+https://github.com/TODD43/td-nft-ticketing
 
 ---
 
-## 04 — TD CREDENTIAL REGISTRY
+## 05 — TD Credential Registry
 
 ### Blockchain Credential Verification
 
-A blockchain registry for issuing, verifying and revoking digital credentials.
+A blockchain-based registry for issuing, verifying and revoking digital credentials.
 
 **Technology**
 
@@ -233,55 +257,20 @@ A blockchain registry for issuing, verifying and revoking digital credentials.
 **Features**
 
 * Credential issuance
-* Verification
+* Credential verification
 * Document hashing
 * Revocation
 * Public verification
 
 Sensitive source documents are not intended to be stored directly on a public blockchain.
 
-### Repository
+**Repository**
 
-**https://github.com/TODD43/td-certificate-registry**
-
----
-
-## 05 — TD SUPPLYCHAIN
-
-### Blockchain Provenance & Traceability
-
-An independent blockchain provenance concept exploring traceable digital records for assets, products and projects.
-
-**Technology**
-
-`Solidity` `Provenance` `EVM` `Blockchain`
-
-**Features**
-
-* Asset registration
-* Lifecycle events
-* Location history
-* Evidence/document hashes
-* Public verification
-* Provenance records
-
-### Conceptual references
-
-**0000345 OneApp**
-https://0000345.oneapp.dev
-
-**RedTree-Ke**
-https://www.redtree-ke.com
-
-TD SupplyChain is an independent technology concept developed by **Todd Adrian**. These references do not imply ownership, partnership, endorsement, affiliation or authorization.
-
-### Repository
-
-**https://github.com/TODD43/td-supplychain-dapp**
+https://github.com/TODD43/td-certificate-registry
 
 ---
 
-## 06 — TD RWA TOKENIZATION
+## 06 — TD RWA Tokenization
 
 ### Real-World Asset Tokenization
 
@@ -300,35 +289,21 @@ A technical demonstration of controlled real-world asset tokenization using bloc
 * Emergency pause
 * Supply controls
 
-### Repository
+**Repository**
 
-**https://github.com/TODD43/td-rwa-tokenization**
+https://github.com/TODD43/td-rwa-tokenization
 
 ---
 
-# TECHNOLOGY STACK
+# TECHNOLOGY
 
 <div align="center">
 
-![Solidity](https://img.shields.io/badge/Solidity-071426?style=for-the-badge\&logo=solidity\&logoColor=63DCFF)
+`SOLIDITY` · `JAVASCRIPT` · `TYPESCRIPT` · `REACT` · `NODE.JS`
 
-![JavaScript](https://img.shields.io/badge/JavaScript-071426?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+`ETHEREUM` · `BASE` · `EVM` · `OPENZEPPELIN` · `FOUNDRY`
 
-![TypeScript](https://img.shields.io/badge/TypeScript-071426?style=for-the-badge\&logo=typescript\&logoColor=63DCFF)
-
-![React](https://img.shields.io/badge/React-071426?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
-![Node.js](https://img.shields.io/badge/Node.js-071426?style=for-the-badge\&logo=node.js\&logoColor=62E6A7)
-
-![Ethereum](https://img.shields.io/badge/Ethereum-071426?style=for-the-badge\&logo=ethereum\&logoColor=8EA2FF)
-
-![Base](https://img.shields.io/badge/Base-0B72E7?style=for-the-badge)
-
-![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-071426?style=for-the-badge)
-
-![Foundry](https://img.shields.io/badge/Foundry-071426?style=for-the-badge)
-
-![Docker](https://img.shields.io/badge/Docker-071426?style=for-the-badge\&logo=docker\&logoColor=2496ED)
+`WEB3` · `DOCKER` · `LINUX`
 
 </div>
 
@@ -358,24 +333,25 @@ ITERATION
 
 ### Principle
 
-> **Blockchain where it creates measurable value.**
+> **Build the right blockchain system for the problem.**
 
-I focus on using blockchain where decentralization, programmable ownership, verification, transparency or on-chain settlement provides a meaningful advantage.
+I focus on identifying where decentralization, programmable ownership, transparency, verification, automation or on-chain settlement provides a meaningful advantage.
 
 ---
 
 # BUSINESS USE CASES
 
-| Business Need          | Blockchain Application        |
-| ---------------------- | ----------------------------- |
-| International payments | Stablecoin payment workflows  |
-| Digital credentials    | Blockchain verification       |
-| Product authenticity   | Provenance and traceability   |
-| Asset management       | Tokenized asset systems       |
-| Event access           | NFT-based passes              |
-| Financial applications | DeFi systems                  |
-| Existing SaaS          | Embedded blockchain modules   |
-| Enterprise workflows   | Verification and audit trails |
+| Business Need                    | Blockchain Application            |
+| -------------------------------- | --------------------------------- |
+| International payment collection | Stablecoin payment workflows      |
+| Digital credentials              | Blockchain verification           |
+| Product authenticity             | Provenance and traceability       |
+| Asset management                 | Tokenized asset systems           |
+| Event access                     | NFT-based passes                  |
+| Financial applications           | DeFi systems                      |
+| Existing SaaS                    | Embedded blockchain functionality |
+| Enterprise workflows             | Verification and audit trails     |
+| Fintech infrastructure           | Blockchain payment integrations   |
 
 ---
 
@@ -383,15 +359,15 @@ I focus on using blockchain where decentralization, programmable ownership, veri
 
 ### 01 — DISCOVER
 
-Understand the business, users, technical environment and desired outcome.
+Understand the business, users, existing technology, constraints and desired outcome.
 
 ### 02 — ARCHITECT
 
-Determine where blockchain belongs and design the appropriate system architecture.
+Determine where blockchain belongs and design the appropriate technical architecture.
 
 ### 03 — BUILD
 
-Develop smart contracts, frontend components, integrations and supporting infrastructure.
+Develop smart contracts, interfaces, integrations and supporting infrastructure.
 
 ### 04 — TEST
 
@@ -403,11 +379,11 @@ Deploy to the appropriate environment and document the system.
 
 ### 06 — ITERATE
 
-Improve the product based on real usage and evolving requirements.
+Improve the product based on real usage and changing requirements.
 
 ---
 
-# WHAT MAKES MY APPROACH DIFFERENT
+# WHY WORK WITH ME
 
 ### Business-first
 
@@ -419,7 +395,7 @@ Blockchain is used where it provides a meaningful advantage.
 
 ### Modular
 
-Existing protocols, APIs, libraries and infrastructure can be integrated rather than unnecessarily rebuilt.
+Established protocols, libraries, APIs and infrastructure can be integrated rather than unnecessarily rebuilt.
 
 ### Full-stack
 
@@ -427,20 +403,7 @@ The work can span smart contracts, Web3 interfaces, APIs, dashboards and deploym
 
 ### Transparent
 
-Prototype, testnet and production status are clearly separated.
-
----
-
-# PORTFOLIO STATUS
-
-| Project                | Domain                  | Status    |
-| ---------------------- | ----------------------- | --------- |
-| TD Pay                 | Stablecoin Payments     | Prototype |
-| TD Staking             | DeFi                    | Prototype |
-| TD NFT Ticketing       | NFT                     | Prototype |
-| TD Credential Registry | Verification            | Prototype |
-| TD SupplyChain         | Enterprise / Provenance | Prototype |
-| TD RWA Tokenization    | RWA                     | Prototype |
+Prototype, testnet and production systems are clearly distinguished.
 
 ---
 
@@ -468,7 +431,7 @@ ENTERPRISE INTEGRATION
 
 **DeFi Applications**
 
-**Stablecoin Payment Integrations**
+**Web3 Payment Integrations**
 
 **NFT Platforms**
 
@@ -482,39 +445,11 @@ ENTERPRISE INTEGRATION
 
 ---
 
-# CONTACT
-
-<div align="center">
-
-## TODD ADRIAN
-
-### Blockchain & Web3 Developer
-
-**Kenya · Global**
-
-<br>
-
-<a href="https://wa.me/254746103062">
-  <img src="https://img.shields.io/badge/WhatsApp-%2B254%20746%20103%20062-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-</a>
-
-<a href="https://github.com/TODD43">
-  <img src="https://img.shields.io/badge/GitHub-TODD43-0B72E7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<br><br>
-
-**Smart Contracts · DeFi · DApps · Payments · NFT · RWA**
-
-</div>
-
----
-
 # SECURITY & DISCLOSURE
 
 The projects presented on this profile include **portfolio and technical demonstration systems**.
 
-Some may use testnets, third-party libraries, APIs or development infrastructure. They should not automatically be interpreted as audited production financial systems, regulated financial products, investment products or security guarantees.
+Some projects may use testnets, third-party libraries, APIs or development infrastructure. They should not automatically be interpreted as audited production financial systems, regulated financial products, investment products or security guarantees.
 
 Production deployments should receive appropriate smart-contract review, security testing, infrastructure testing, monitoring and legal/compliance review.
 
@@ -543,6 +478,12 @@ No claim is made regarding ownership or use of proprietary source code belonging
 
 **Todd Adrian**
 
-[GitHub](https://github.com/TODD43) · [WhatsApp](https://wa.me/254746103062)
+<br>
+
+[GitHub](https://github.com/TODD43)
+
+  ·  
+
+[WhatsApp](https://wa.me/254746103062)
 
 </div>
