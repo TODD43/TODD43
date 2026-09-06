@@ -1,425 +1,363 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:03060B,45:07111F,100:0A2238&height=240&section=header&text=TODD%20ADRIAN&fontSize=60&fontColor=00E5FF&animation=fadeIn&fontAlignY=40&desc=BLOCKCHAIN%20%2F%20WEB3%20ENGINEER&descSize=19&descColor=FFFFFF&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:040811,45:071426,100:0B72E7&height=230&section=header&text=TODD%20ADRIAN&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=BLOCKCHAIN%20%26%20WEB3%20DEVELOPER&descSize=18&descColor=63DCFF&descAlignY=64"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2600&pause=850&color=00E5FF&center=true&vCenter=true&width=850&lines=SMART+CONTRACTS;DEFI+SYSTEMS;WEB3+PAYMENTS;NFT+PLATFORMS;RWA+TOKENIZATION;BLOCKCHAIN+INFRASTRUCTURE;BUILDING+REAL+PRODUCTS"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=2800&pause=900&color=2EA8FF&center=true&vCenter=true&width=820&lines=SMART+CONTRACTS;DEFI+APPLICATIONS;WEB3+PAYMENTS;NFT+PLATFORMS;RWA+TOKENIZATION;ENTERPRISE+BLOCKCHAIN"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/TD%20LABS-ENGINEERING-03060B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BUILD-ONCHAIN-03060B?style=for-the-badge&logo=ethereum&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/WEB3-INFRASTRUCTURE-03060B?style=for-the-badge&logoColor=00FFA3"/>
+<a href="https://github.com/TODD43">
+<img src="https://img.shields.io/badge/GitHub-TODD43-071426?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<a href="https://wa.me/254746103062">
+<img src="https://img.shields.io/badge/WhatsApp-%2B254%20746%20103%20062-25D366?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF"/>
+</a>
 
 </div>
 
 ---
 
-# `> SYSTEM.STATUS`
+## `ABOUT`
 
-```text
-┌───────────────────────────────────────────────────────────────────────┐
-│ TODD ADRIAN // BLOCKCHAIN & WEB3 ENGINEERING                         │
-├───────────────────────────────────────────────────────────────────────┤
-│ STATUS          : ONLINE                                              │
-│ ROLE            : BLOCKCHAIN / WEB3 ENGINEER                          │
-│ LOCATION        : KENYA                                               │
-│ SPECIALIZATION  : SMART CONTRACTS / DAPPS / WEB3 INFRASTRUCTURE       │
-│ NETWORKS        : EVM / ETHEREUM / BASE                               │
-│ FOCUS           : DEFI / PAYMENTS / NFT / RWA / ENTERPRISE            │
-│ WORK MODE       : PRODUCT DEVELOPMENT / INTEGRATION / CUSTOM BUILDS   │
-└───────────────────────────────────────────────────────────────────────┘
-```
+### I build blockchain products that solve real problems.
+
+I'm **Todd Adrian**, a blockchain and Web3 developer based in Kenya.
+
+I design and build practical systems across **smart contracts, decentralized applications, DeFi, stablecoin payments, NFT infrastructure, real-world asset tokenization, verification and enterprise blockchain integration.**
+
+<img src="https://img.shields.io/badge/Blockchain-040811?style=flat-square&logoColor=63DCFF"/>
+<img src="https://img.shields.io/badge/Web3-071426?style=flat-square&logoColor=63DCFF"/>
+<img src="https://img.shields.io/badge/Smart%20Contracts-0B72E7?style=flat-square&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/DeFi-6776FF?style=flat-square&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/RWA-2EA8FF?style=flat-square&logoColor=FFFFFF"/>
 
 ---
 
-# `> ABOUT.TODD`
+# `SELECTED WORK`
 
-I build **blockchain-powered products and integrations** designed around real business problems.
-
-My work focuses on turning blockchain technology into practical systems across:
-
-```text
-[01] SMART CONTRACTS
-[02] DECENTRALIZED APPLICATIONS
-[03] DEFI
-[04] WEB3 PAYMENTS
-[05] NFT SYSTEMS
-[06] REAL-WORLD ASSET TOKENIZATION
-[07] BLOCKCHAIN VERIFICATION
-[08] ENTERPRISE BLOCKCHAIN INTEGRATION
-```
-
-> **Use blockchain where it creates measurable value.**
-
----
-
-# `> FEATURED.SYSTEMS`
-
-## `01 // TD PAY`
+## `01` — TD Pay
 
 ### Stablecoin Invoicing & Payment Infrastructure
 
-```text
-USDC
-ON-CHAIN INVOICES
-PAYMENT LINKS
-WALLET PAYMENTS
-PAYMENT VERIFICATION
-BASE
-```
+A non-custodial stablecoin payment prototype designed around business invoicing, wallet payments and on-chain payment verification.
 
-A non-custodial payment prototype demonstrating branded stablecoin invoicing and on-chain payment verification.
+**USDC · EVM · Wallets · Smart Contracts · Base**
 
 <div align="center">
 
-[![Repository](https://img.shields.io/badge/REPOSITORY-TODD43%2Ftd--pay-00E5FF?style=for-the-badge\&logo=github\&logoColor=FFFFFF\&labelColor=03060B)](https://github.com/TODD43/td-pay)
+[![Repository](https://img.shields.io/badge/REPOSITORY-TD%20PAY-0B72E7?style=for-the-badge\&logo=github\&logoColor=FFFFFF)](https://github.com/TODD43/td-pay)
 
 </div>
 
 ---
 
-## `02 // TD STAKING`
+## `02` — TD Staking
 
 ### DeFi Staking & Rewards
 
-```text
-SOLIDITY
-STAKING
-REWARDS
-TOKEN BALANCES
-WALLET INTEGRATION
-EVM
-```
-
 A decentralized staking demonstration featuring smart-contract-based deposits, withdrawals and reward accounting.
+
+**Solidity · DeFi · EVM · Wallet Integration**
 
 <div align="center">
 
-[![Repository](https://img.shields.io/badge/REPOSITORY-TODD43%2Ftd--staking--dapp-7C3AED?style=for-the-badge\&logo=github\&logoColor=FFFFFF\&labelColor=03060B)](https://github.com/TODD43/td-staking-dapp)
+[![Repository](https://img.shields.io/badge/REPOSITORY-TD%20STAKING-6776FF?style=for-the-badge\&logo=github\&logoColor=FFFFFF)](https://github.com/TODD43/td-staking-dapp)
 
 </div>
 
 ---
 
-## `03 // TD NFT TICKETING`
+## `03` — TD NFT Ticketing
 
 ### NFT Event Pass & Membership System
 
-```text
-NFT
-MINTING
-TOKEN IDS
-DIGITAL OWNERSHIP
-EVENT ACCESS
-WEB3
-```
+A blockchain-based event ticketing and digital membership concept using NFTs.
 
-A blockchain-based demonstration of NFT event passes and digital memberships.
+**NFT · Minting · Digital Ownership · Web3**
 
 <div align="center">
 
-[![Repository](https://img.shields.io/badge/REPOSITORY-TODD43%2Ftd--nft--ticketing-00FFA3?style=for-the-badge\&logo=github\&logoColor=FFFFFF\&labelColor=03060B)](https://github.com/TODD43/td-nft-ticketing)
+[![Repository](https://img.shields.io/badge/REPOSITORY-TD%20NFT%20TICKETING-2EA8FF?style=for-the-badge\&logo=github\&logoColor=FFFFFF)](https://github.com/TODD43/td-nft-ticketing)
 
 </div>
 
 ---
 
-## `04 // TD CREDENTIAL REGISTRY`
+## `04` — TD Credential Registry
 
 ### Blockchain Credential Verification
 
-```text
-CREDENTIALS
-DOCUMENT HASHING
-ISSUANCE
-VERIFICATION
-REVOCATION
-BLOCKCHAIN
-```
+A blockchain-based registry for issuing, verifying and revoking digital credentials while avoiding direct storage of sensitive source documents on-chain.
 
-A decentralized credential registry demonstrating verifiable certificates and digital credentials while avoiding direct storage of sensitive document contents on-chain.
+**Verification · Hashing · Credentials · Blockchain**
 
 <div align="center">
 
-[![Repository](https://img.shields.io/badge/REPOSITORY-TODD43%2Ftd--certificate--registry-00E5FF?style=for-the-badge\&logo=github\&logoColor=FFFFFF\&labelColor=03060B)](https://github.com/TODD43/td-certificate-registry)
+[![Repository](https://img.shields.io/badge/REPOSITORY-TD%20CREDENTIAL%20REGISTRY-0B72E7?style=for-the-badge\&logo=github\&logoColor=FFFFFF)](https://github.com/TODD43/td-certificate-registry)
 
 </div>
 
 ---
 
-## `05 // TD SUPPLYCHAIN`
+## `05` — TD SupplyChain
 
 ### Blockchain Provenance & Traceability
 
+An independent blockchain provenance concept exploring traceable digital records for real-world assets and projects.
+
+**Provenance · Asset Tracking · Verification · Enterprise**
+
+Conceptual references:
+
+* [0000345 OneApp](https://0000345.oneapp.dev)
+* [RedTree-Ke](https://www.redtree-ke.com)
+
+<div align="center">
+
+[![Repository](https://img.shields.io/badge/REPOSITORY-TD%20SUPPLYCHAIN-6776FF?style=for-the-badge\&logo=github\&logoColor=FFFFFF)](https://github.com/TODD43/td-supplychain-dapp)
+
+</div>
+
+---
+
+## `06` — TD RWA Tokenization
+
+### Real-World Asset Tokenization
+
+A technical demonstration of controlled real-world asset tokenization.
+
+**RWA · Tokenization · Allowlisting · Transfer Controls**
+
+<div align="center">
+
+[![Repository](https://img.shields.io/badge/REPOSITORY-TD%20RWA%20TOKENIZATION-2EA8FF?style=for-the-badge\&logo=github\&logoColor=FFFFFF)](https://github.com/TODD43/td-rwa-tokenization)
+
+</div>
+
+---
+
+# `TECHNOLOGY`
+
+<div align="center">
+
+![Solidity](https://img.shields.io/badge/Solidity-040811?style=for-the-badge\&logo=solidity\&logoColor=63DCFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-071426?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-071426?style=for-the-badge\&logo=typescript\&logoColor=63DCFF)
+![React](https://img.shields.io/badge/React-071426?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-071426?style=for-the-badge\&logo=node.js\&logoColor=62E6A7)
+![Ethereum](https://img.shields.io/badge/Ethereum-071426?style=for-the-badge\&logo=ethereum\&logoColor=8EA2FF)
+![Base](https://img.shields.io/badge/Base-0B72E7?style=for-the-badge\&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-071426?style=for-the-badge\&logo=docker\&logoColor=2EA8FF)
+![Linux](https://img.shields.io/badge/Linux-071426?style=for-the-badge\&logo=linux\&logoColor=FCC624)
+
+</div>
+
+---
+
+# `CAPABILITIES`
+
+<table>
+<tr>
+<td width="50%">
+
+### Smart Contracts
+
+Solidity contracts, access control, validation, state transitions and deployment.
+
+</td>
+<td width="50%">
+
+### DeFi
+
+Staking, reward systems, financial interfaces and protocol integrations.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Web3 Payments
+
+Stablecoin invoices, payment links, wallets and on-chain verification.
+
+</td>
+<td width="50%">
+
+### NFT Systems
+
+Ticketing, memberships, collections and digital ownership.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Tokenization
+
+Digital assets and real-world asset infrastructure.
+
+</td>
+<td width="50%">
+
+### Enterprise Blockchain
+
+Provenance, verification, asset tracking and blockchain integration.
+
+</td>
+</tr>
+</table>
+
+---
+
+# `ENGINEERING APPROACH`
+
 ```text
-ASSET REGISTRATION
-LIFECYCLE EVENTS
-LOCATION HISTORY
-EVIDENCE HASHING
-PROVENANCE
-PUBLIC VERIFICATION
+BUSINESS PROBLEM
+       │
+       ▼
+DISCOVERY
+       │
+       ▼
+ARCHITECTURE
+       │
+       ▼
+SMART CONTRACT
+       │
+       ▼
+WEB3 / API INTEGRATION
+       │
+       ▼
+FRONTEND
+       │
+       ▼
+TESTING
+       │
+       ▼
+DEPLOYMENT
+       │
+       ▼
+ITERATION
 ```
 
-An independent blockchain provenance concept developed by Todd Adrian exploring traceable digital records for real-world assets and projects.
+### Principle
+
+> **Blockchain where it creates measurable value.**
+
+I focus on selecting blockchain technology where decentralization, programmable ownership, transparency, verification or on-chain settlement provides a meaningful advantage.
+
+---
+
+# `CURRENT PORTFOLIO`
+
+| Project                    | Area                |   Status  |
+| :------------------------- | :------------------ | :-------: |
+| **TD Pay**                 | Stablecoin Payments | Prototype |
+| **TD Staking**             | DeFi                | Prototype |
+| **TD NFT Ticketing**       | NFT                 | Prototype |
+| **TD Credential Registry** | Verification        | Prototype |
+| **TD SupplyChain**         | Enterprise          | Prototype |
+| **TD RWA Tokenization**    | Tokenization        | Prototype |
+
+---
+
+# `GITHUB`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TODD43&show_icons=true&hide_border=true&bg_color=040811&title_color=63DCFF&icon_color=2EA8FF&text_color=FFFFFF&rank_icon=github"/>
+
+</div>
+
+---
+
+# `AVAILABLE FOR`
+
+```text
+SMART CONTRACT DEVELOPMENT
+DEFI APPLICATIONS
+WEB3 PAYMENTS
+NFT PLATFORMS
+RWA TOKENIZATION
+BLOCKCHAIN INTEGRATIONS
+ENTERPRISE BLOCKCHAIN SYSTEMS
+CUSTOM DAPP DEVELOPMENT
+```
+
+---
+
+# `CONTACT`
+
+<div align="center">
+
+## TODD ADRIAN
+
+### Blockchain & Web3 Developer
+
+<br>
+
+<a href="https://wa.me/254746103062">
+<img src="https://img.shields.io/badge/WhatsApp-+254%20746%20103%20062-25D366?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF"/>
+</a>
+
+<a href="https://github.com/TODD43">
+<img src="https://img.shields.io/badge/GitHub-TODD43-071426?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<br><br>
+
+**Kenya · Global**
+
+</div>
+
+---
+
+# `SECURITY & DISCLOSURE`
+
+The projects presented here include **portfolio and technical demonstration systems**.
+
+They may use testnets, third-party libraries, APIs and development infrastructure. They should not automatically be interpreted as audited production financial systems, regulated financial products or security guarantees.
+
+Production deployments should receive appropriate:
+
+* Smart-contract review
+* Security testing
+* Infrastructure testing
+* Monitoring
+* Legal/compliance review
+* Independent audit where appropriate
+
+Third-party technologies remain subject to their respective licenses and terms.
+
+---
+
+## TD SupplyChain Disclosure
+
+TD SupplyChain is an **independent technology concept developed by Todd Adrian**.
 
 Conceptual references:
 
 * https://0000345.oneapp.dev
 * https://www.redtree-ke.com
 
-<div align="center">
+These references do not imply ownership, partnership, endorsement, affiliation, acquisition or authorization.
 
-[![Repository](https://img.shields.io/badge/REPOSITORY-TODD43%2Ftd--supplychain--dapp-7C3AED?style=for-the-badge\&logo=github\&logoColor=FFFFFF\&labelColor=03060B)](https://github.com/TODD43/td-supplychain-dapp)
-
-</div>
+No claim is made regarding ownership or use of proprietary source code belonging to those projects.
 
 ---
-
-## `06 // TD RWA`
-
-### Real-World Asset Tokenization
-
-```text
-RWA
-TOKENIZATION
-ALLOWLISTING
-ISSUANCE CONTROLS
-TRANSFER RESTRICTIONS
-EMERGENCY PAUSE
-```
-
-A technical demonstration of tokenized real-world assets with controlled issuance, investor allowlisting and transfer restrictions.
 
 <div align="center">
 
-[![Repository](https://img.shields.io/badge/REPOSITORY-TODD43%2Ftd--rwa--tokenization-00FFA3?style=for-the-badge\&logo=github\&logoColor=FFFFFF\&labelColor=03060B)](https://github.com/TODD43/td-rwa-tokenization)
+### BUILD. INTEGRATE. DEPLOY.
 
-</div>
-
----
-
-# `> ENGINEERING.STACK`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=solidity,typescript,javascript,react,nextjs,nodejs,git,github,docker,linux&perline=10"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SOLIDITY-03060B?style=for-the-badge&logo=solidity&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/ETHEREUM-03060B?style=for-the-badge&logo=ethereum&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/BASE-03060B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOUNDRY-03060B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OPENZEPPELIN-03060B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WEB3-03060B?style=for-the-badge"/>
-
-</div>
-
----
-
-# `> WHAT.I.BUILD`
-
-```text
-┌──────────────────────────┬─────────────────────────────────────────────┐
-│ BLOCKCHAIN DEVELOPMENT   │ Custom smart contracts and DApps           │
-├──────────────────────────┼─────────────────────────────────────────────┤
-│ DEFI                     │ Staking, financial interfaces and systems  │
-├──────────────────────────┼─────────────────────────────────────────────┤
-│ WEB3 PAYMENTS            │ Stablecoin invoicing and payment flows     │
-├──────────────────────────┼─────────────────────────────────────────────┤
-│ NFT DEVELOPMENT          │ Ticketing, memberships and collections    │
-├──────────────────────────┼─────────────────────────────────────────────┤
-│ TOKENIZATION             │ Digital and real-world asset systems      │
-├──────────────────────────┼─────────────────────────────────────────────┤
-│ BLOCKCHAIN VERIFICATION  │ Credentials, provenance and audit trails  │
-├──────────────────────────┼─────────────────────────────────────────────┤
-│ ENTERPRISE INTEGRATION   │ Blockchain modules for existing platforms │
-└──────────────────────────┴─────────────────────────────────────────────┘
-```
-
----
-
-# `> ARCHITECTURE`
-
-```text
-                         BUSINESS PROBLEM
-                                │
-                                ▼
-                     ┌─────────────────────┐
-                     │ PRODUCT DISCOVERY   │
-                     └──────────┬──────────┘
-                                │
-                                ▼
-                     ┌─────────────────────┐
-                     │ BLOCKCHAIN DESIGN   │
-                     └──────────┬──────────┘
-                                │
-                                ▼
-                     ┌─────────────────────┐
-                     │ SMART CONTRACT      │
-                     └──────────┬──────────┘
-                                │
-                                ▼
-                   ┌─────────────────────────┐
-                   │ WEB3 / API INTEGRATION │
-                   └────────────┬────────────┘
-                                │
-                                ▼
-                     ┌─────────────────────┐
-                     │ FRONTEND / DASHBOARD│
-                     └──────────┬──────────┘
-                                │
-                                ▼
-                     ┌─────────────────────┐
-                     │ TEST → DEPLOY → MONITOR │
-                     └─────────────────────┘
-```
-
----
-
-# `> DEVELOPMENT.PRINCIPLES`
-
-```text
-01  SECURITY FIRST
-    Minimize unnecessary trust and validate critical state transitions.
-
-02  BUSINESS FIRST
-    Blockchain should solve a real problem rather than exist for its own sake.
-
-03  MODULAR ARCHITECTURE
-    Use reusable contracts, libraries, APIs and infrastructure where appropriate.
-
-04  TRANSPARENCY
-    Document assumptions, limitations and deployment conditions.
-
-05  TEST BEFORE PRODUCTION
-    Portfolio and testnet systems are not presented as audited production systems.
-```
-
----
-
-# `> CURRENT.PROJECT.MATRIX`
-
-| Project                | Domain       | Core Technology       | Status    |
-| ---------------------- | ------------ | --------------------- | --------- |
-| TD Pay                 | Payments     | Solidity / USDC / EVM | Prototype |
-| TD Staking             | DeFi         | Solidity / EVM        | Prototype |
-| TD NFT Ticketing       | NFT          | Solidity / EVM        | Prototype |
-| TD Credential Registry | Verification | Solidity / EVM        | Prototype |
-| TD SupplyChain         | Enterprise   | Solidity / EVM        | Prototype |
-| TD RWA                 | Tokenization | Solidity / EVM        | Prototype |
-
----
-
-# `> GITHUB.ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TODD43&show_icons=true&hide_border=true&bg_color=03060B&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&rank_icon=github"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=TODD43&hide_border=true&background=03060B&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
-
-</div>
-
----
-
-# `> CONTRIBUTION.GRAPH`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TODD43&bg_color=03060B&color=00E5FF&line=7C3AED&point=00FFA3&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# `> ROADMAP`
-
-```text
-[✓] Blockchain payment prototype
-[✓] DeFi staking prototype
-[✓] NFT ticketing prototype
-[✓] Credential verification prototype
-[✓] Blockchain provenance prototype
-[✓] RWA tokenization prototype
-
-[→] Production-grade testing
-[→] Security hardening
-[→] API integrations
-[→] Enterprise deployments
-[→] African stablecoin payment infrastructure
-[→] Custom client blockchain systems
-```
-
----
-
-# `> OPEN.FOR`
-
-```text
-SMART CONTRACT DEVELOPMENT
-DAPPS
-DEFI
-NFT PLATFORMS
-WEB3 PAYMENTS
-RWA TOKENIZATION
-BLOCKCHAIN INTEGRATIONS
-ENTERPRISE BLOCKCHAIN SYSTEMS
-```
-
----
-
-# `> CONTACT`
-
-<div align="center">
-
-## TODD ADRIAN
-
-### Blockchain & Web3 Engineer
+**Todd Adrian**
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-TODD43-black?style=for-the-badge\&logo=github)](https://github.com/TODD43)
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B254746103062-25D366?style=for-the-badge\&logo=whatsapp)](https://wa.me/254746103062)
-
-<br><br>
-
-```text
-AVAILABLE FOR CUSTOM BLOCKCHAIN
-DEVELOPMENT • DAPPS • SMART CONTRACTS • WEB3 INTEGRATIONS
-```
-
-</div>
-
----
-
-# `> DISCLAIMER`
-
-The repositories displayed on this profile include **portfolio and technical demonstration projects**.
-
-Some projects may use testnets, third-party libraries, APIs or development infrastructure. These demonstrations should not be interpreted as independently audited production financial systems, investment products, regulated financial services, or security guarantees.
-
-Third-party technologies remain subject to their respective licenses and terms.
-
-The TD SupplyChain concept references:
-
-* https://0000345.oneapp.dev
-* https://www.redtree-ke.com
-
-Those references do not imply ownership, partnership, endorsement, affiliation, authorization, acquisition or use of proprietary code from those projects.
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2238,50:07111F,100:03060B&height=140&section=footer"/>
-
-### `BUILD • TEST • DEPLOY • ITERATE`
-
-**Todd Adrian // TD Labs**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B72E7,50:071426,100:040811&height=120&section=footer"/>
 
 </div>
