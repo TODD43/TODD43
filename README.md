@@ -10,9 +10,17 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=42&duration=2800&pause=900&color=0B72E7&center=true&vCenter=true&width=900&height=70&lines=TODD+ADRIAN" alt="Todd Adrian">
+<img
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=64&duration=2600&pause=700&color=0B72E7&center=true&vCenter=true&width=1100&height=110&lines=TODD+ADRIAN"
+alt="Todd Adrian"
+width="100%"
+/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=21&duration=2400&pause=800&color=63DCFF&center=true&vCenter=true&width=950&height=50&lines=BLOCKCHAIN+%26+WEB3+DEVELOPER;SMART+CONTRACT+ENGINEER;DEFI+%7C+WEB3+PAYMENTS+%7C+NFT+%7C+RWA;BUILDING+BLOCKCHAIN+PRODUCTS+THAT+SHIP" alt="Blockchain and Web3 Developer">
+<img
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=25&duration=2300&pause=800&color=63DCFF&center=true&vCenter=true&width=1100&height=60&lines=BLOCKCHAIN+%26+WEB3+DEVELOPER;SMART+CONTRACT+ENGINEER;DEFI+%7C+WEB3+PAYMENTS+%7C+NFT+%7C+RWA;BUILDING+BLOCKCHAIN+PRODUCTS+THAT+SHIP"
+alt="Blockchain and Web3 Developer"
+width="100%"
+/>
 
 <br>
 
@@ -138,7 +146,7 @@ Examples include:
 
 # SELECTED WORK
 
-## 01 — TD Pay
+## 01 — TD PAY
 
 ### Stablecoin Invoicing & Payment Infrastructure
 
@@ -159,11 +167,11 @@ A non-custodial stablecoin payment prototype focused on business invoicing, USDC
 
 **Repository**
 
-https://github.com/TODD43/td-pay
+[**VIEW TD PAY →**](https://github.com/TODD43/td-pay)
 
 ---
 
-## 02 — TD Staking
+## 02 — TD STAKING
 
 ### DeFi Staking & Rewards
 
@@ -184,11 +192,11 @@ A decentralized staking demonstration featuring smart-contract deposits, withdra
 
 **Repository**
 
-https://github.com/TODD43/td-staking-dapp
+[**VIEW TD STAKING →**](https://github.com/TODD43/td-staking-dapp)
 
 ---
 
-## 03 — TD SupplyChain
+## 03 — TD SUPPLYCHAIN
 
 ### Blockchain Provenance & Traceability
 
@@ -209,18 +217,18 @@ An independent blockchain provenance concept exploring traceable digital records
 
 ### Conceptual references
 
-https://0000345.oneapp.dev
-https://www.redtree-ke.com
+[0000345 OneApp](https://0000345.oneapp.dev)
+[RedTree-Ke](https://www.redtree-ke.com)
 
 TD SupplyChain is an independent technology concept developed by **Todd Adrian**. These references do not imply ownership, partnership, endorsement, affiliation or authorization.
 
 **Repository**
 
-https://github.com/TODD43/td-supplychain-dapp
+[**VIEW TD SUPPLYCHAIN →**](https://github.com/TODD43/td-supplychain-dapp)
 
 ---
 
-## 04 — TD NFT Ticketing
+## 04 — TD NFT TICKETING
 
 ### NFT Event Pass & Membership System
 
@@ -240,11 +248,11 @@ A blockchain-based event ticketing and digital membership concept using NFTs.
 
 **Repository**
 
-https://github.com/TODD43/td-nft-ticketing
+[**VIEW TD NFT TICKETING →**](https://github.com/TODD43/td-nft-ticketing)
 
 ---
 
-## 05 — TD Credential Registry
+## 05 — TD CREDENTIAL REGISTRY
 
 ### Blockchain Credential Verification
 
@@ -266,11 +274,11 @@ Sensitive source documents are not intended to be stored directly on a public bl
 
 **Repository**
 
-https://github.com/TODD43/td-certificate-registry
+[**VIEW TD CREDENTIAL REGISTRY →**](https://github.com/TODD43/td-certificate-registry)
 
 ---
 
-## 06 — TD RWA Tokenization
+## 06 — TD RWA TOKENIZATION
 
 ### Real-World Asset Tokenization
 
@@ -291,19 +299,28 @@ A technical demonstration of controlled real-world asset tokenization using bloc
 
 **Repository**
 
-https://github.com/TODD43/td-rwa-tokenization
+[**VIEW TD RWA TOKENIZATION →**](https://github.com/TODD43/td-rwa-tokenization)
 
 ---
 
-# TECHNOLOGY
+# TECHNOLOGY STACK
 
 <div align="center">
 
-`SOLIDITY` · `JAVASCRIPT` · `TYPESCRIPT` · `REACT` · `NODE.JS`
+![Solidity](https://img.shields.io/badge/Solidity-071426?style=for-the-badge\&logo=solidity\&logoColor=63DCFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-071426?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-071426?style=for-the-badge\&logo=typescript\&logoColor=63DCFF)
+![React](https://img.shields.io/badge/React-071426?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-071426?style=for-the-badge\&logo=node.js\&logoColor=62E6A7)
 
-`ETHEREUM` · `BASE` · `EVM` · `OPENZEPPELIN` · `FOUNDRY`
+<br>
 
-`WEB3` · `DOCKER` · `LINUX`
+![Ethereum](https://img.shields.io/badge/Ethereum-071426?style=for-the-badge\&logo=ethereum\&logoColor=8EA2FF)
+![Base](https://img.shields.io/badge/Base-0B72E7?style=for-the-badge)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-071426?style=for-the-badge)
+![Foundry](https://img.shields.io/badge/Foundry-071426?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-071426?style=for-the-badge\&logo=docker\&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-071426?style=for-the-badge\&logo=linux\&logoColor=FCC624)
 
 </div>
 
@@ -330,8 +347,6 @@ DEPLOYMENT
         ↓
 ITERATION
 ```
-
-### Principle
 
 > **Build the right blockchain system for the problem.**
 
@@ -451,7 +466,14 @@ The projects presented on this profile include **portfolio and technical demonst
 
 Some projects may use testnets, third-party libraries, APIs or development infrastructure. They should not automatically be interpreted as audited production financial systems, regulated financial products, investment products or security guarantees.
 
-Production deployments should receive appropriate smart-contract review, security testing, infrastructure testing, monitoring and legal/compliance review.
+Production deployments should receive appropriate:
+
+* Smart-contract review
+* Security testing
+* Infrastructure testing
+* Monitoring
+* Legal/compliance review
+* Independent audit where appropriate
 
 Third-party libraries, APIs and infrastructure remain subject to their respective licenses and terms.
 
@@ -478,12 +500,6 @@ No claim is made regarding ownership or use of proprietary source code belonging
 
 **Todd Adrian**
 
-<br>
-
-[GitHub](https://github.com/TODD43)
-
-  ·  
-
-[WhatsApp](https://wa.me/254746103062)
+[GitHub](https://github.com/TODD43) · [WhatsApp](https://wa.me/254746103062)
 
 </div>
