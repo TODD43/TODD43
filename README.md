@@ -19,13 +19,13 @@ width="100%"
 <br><br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=64&duration=2600&pause=700&color=0B72E7&center=true&vCenter=true&width=1200&height=120&lines=TODD+ADRIAN"
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=110&duration=2600&pause=700&color=0B72E7&center=true&vCenter=true&width=800&height=160&lines=TODD+ADRIAN"
 alt="Todd Adrian"
 width="100%"
 />
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2300&pause=800&color=63DCFF&center=true&vCenter=true&width=1200&height=65&lines=BLOCKCHAIN+%26+WEB3+DEVELOPER;SMART+CONTRACT+ENGINEER;DEFI+%7C+WEB3+PAYMENTS+%7C+NFT+%7C+RWA;BUILDING+BLOCKCHAIN+PRODUCTS+THAT+SHIP"
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=40&duration=2300&pause=800&color=63DCFF&center=true&vCenter=true&width=850&height=80&lines=BLOCKCHAIN+%26+WEB3+DEVELOPER;SMART+CONTRACT+ENGINEER;DEFI+%7C+WEB3+PAYMENTS+%7C+NFT+%7C+RWA;BUILDING+BLOCKCHAIN+PRODUCTS+THAT+SHIP"
 alt="Blockchain and Web3 Developer"
 width="100%"
 />
