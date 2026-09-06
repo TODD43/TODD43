@@ -11,13 +11,21 @@
 <br><br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=64&duration=2600&pause=700&color=0B72E7&center=true&vCenter=true&width=1100&height=110&lines=TODD+ADRIAN"
+src="https://raw.githubusercontent.com/TODD43/TODD43/main/assets/todd_adrian_hero_v2.gif"
+alt="Todd Adrian — Blockchain & Web3 Developer"
+width="100%"
+/>
+
+<br><br>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=64&duration=2600&pause=700&color=0B72E7&center=true&vCenter=true&width=1200&height=120&lines=TODD+ADRIAN"
 alt="Todd Adrian"
 width="100%"
 />
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=25&duration=2300&pause=800&color=63DCFF&center=true&vCenter=true&width=1100&height=60&lines=BLOCKCHAIN+%26+WEB3+DEVELOPER;SMART+CONTRACT+ENGINEER;DEFI+%7C+WEB3+PAYMENTS+%7C+NFT+%7C+RWA;BUILDING+BLOCKCHAIN+PRODUCTS+THAT+SHIP"
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2300&pause=800&color=63DCFF&center=true&vCenter=true&width=1200&height=65&lines=BLOCKCHAIN+%26+WEB3+DEVELOPER;SMART+CONTRACT+ENGINEER;DEFI+%7C+WEB3+PAYMENTS+%7C+NFT+%7C+RWA;BUILDING+BLOCKCHAIN+PRODUCTS+THAT+SHIP"
 alt="Blockchain and Web3 Developer"
 width="100%"
 />
@@ -307,20 +315,11 @@ A technical demonstration of controlled real-world asset tokenization using bloc
 
 <div align="center">
 
-![Solidity](https://img.shields.io/badge/Solidity-071426?style=for-the-badge\&logo=solidity\&logoColor=63DCFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-071426?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-071426?style=for-the-badge\&logo=typescript\&logoColor=63DCFF)
-![React](https://img.shields.io/badge/React-071426?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-071426?style=for-the-badge\&logo=node.js\&logoColor=62E6A7)
+`SOLIDITY` · `JAVASCRIPT` · `TYPESCRIPT` · `REACT` · `NODE.JS`
 
-<br>
+`ETHEREUM` · `BASE` · `EVM` · `OPENZEPPELIN` · `FOUNDRY`
 
-![Ethereum](https://img.shields.io/badge/Ethereum-071426?style=for-the-badge\&logo=ethereum\&logoColor=8EA2FF)
-![Base](https://img.shields.io/badge/Base-0B72E7?style=for-the-badge)
-![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-071426?style=for-the-badge)
-![Foundry](https://img.shields.io/badge/Foundry-071426?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-071426?style=for-the-badge\&logo=docker\&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux-071426?style=for-the-badge\&logo=linux\&logoColor=FCC624)
+`WEB3` · `DOCKER` · `LINUX`
 
 </div>
 
@@ -479,7 +478,7 @@ Third-party libraries, APIs and infrastructure remain subject to their respectiv
 
 ---
 
-## TD SupplyChain Disclosure
+## TD SUPPLYCHAIN DISCLOSURE
 
 TD SupplyChain is an **independent technology concept developed by Todd Adrian**.
 
@@ -500,6 +499,20 @@ No claim is made regarding ownership or use of proprietary source code belonging
 
 **Todd Adrian**
 
-[GitHub](https://github.com/TODD43) · [WhatsApp](https://wa.me/254746103062)
+**Blockchain & Web3 Developer**
+
+**Kenya · Global**
+
+<br>
+
+<a href="https://github.com/TODD43">
+GitHub
+</a>
+
+  ·  
+
+<a href="https://wa.me/254746103062">
+WhatsApp
+</a>
 
 </div>
