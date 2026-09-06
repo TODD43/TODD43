@@ -1,62 +1,47 @@
 <p align="center">
-  <img src="./assets/flow-field.svg" alt="Todd Adrian — Blockchain & Web3" width="100%" />
+  <img src="./assets/swiss-grid.svg" alt="Todd Adrian — Blockchain & Web3 Developer" width="100%" />
 </p>
 
-### the year
+### building at the intersection of blockchain and real-world systems
 
-**2026 has been about turning blockchain ideas into working products.**
+I’m **Todd Adrian**, a blockchain and Web3 developer based in Kenya.
 
-I've been building practical systems across smart contracts, decentralized applications, DeFi, Web3 payments, NFTs, blockchain verification and real-world asset tokenization — with a focus on creating technology that can solve actual business problems.
+I build practical products across smart contracts, DeFi, stablecoin payments, NFTs, blockchain verification, provenance and real-world asset tokenization.
 
-### what came out of it
+The goal is simple: **use blockchain where it creates real value.**
 
-* **TD Pay** — a non-custodial stablecoin invoicing and payment DApp using USDC and Base.
-* **TD Staking** — a DeFi staking and rewards system built around Solidity smart contracts.
-* **TD NFT Ticketing** — an NFT-based event pass and digital membership concept.
-* **TD Credential Registry** — a blockchain-based credential issuance and verification system.
-* **TD SupplyChain** — a blockchain provenance and traceability system for real-world assets and projects.
-* **TD RWA Tokenization** — a technical demonstration of controlled real-world asset tokenization.
+### index
 
-### what I work with
+* **TD Pay** — non-custodial stablecoin invoicing and payment infrastructure using USDC and Base.
+  [repository →](https://github.com/TODD43/td-pay)
 
-`Solidity` · `JavaScript` · `TypeScript` · `React` · `Node.js` · `Ethereum` · `Base` · `EVM` · `Web3`
+* **TD Staking** — DeFi staking and rewards application built around Solidity smart contracts.
+  [repository →](https://github.com/TODD43/td-staking-dapp)
 
-### where to find the work
+* **TD NFT Ticketing** — blockchain-based event passes and digital memberships using NFTs.
+  [repository →](https://github.com/TODD43/td-nft-ticketing)
 
-* [TD Pay](https://github.com/TODD43/td-pay)
-* [TD Staking](https://github.com/TODD43/td-staking-dapp)
-* [TD NFT Ticketing](https://github.com/TODD43/td-nft-ticketing)
-* [TD Credential Registry](https://github.com/TODD43/td-certificate-registry)
-* [TD SupplyChain](https://github.com/TODD43/td-supplychain-dapp)
-* [TD RWA Tokenization](https://github.com/TODD43/td-rwa-tokenization)
+* **TD Credential Registry** — blockchain-based issuance, verification and revocation of digital credentials.
+  [repository →](https://github.com/TODD43/td-certificate-registry)
 
-### get in touch
+* **TD SupplyChain** — independent blockchain provenance and traceability concept for real-world assets and projects.
+  [repository →](https://github.com/TODD43/td-supplychain-dapp)
 
-**Todd Adrian**
+* **TD RWA Tokenization** — technical demonstration of controlled real-world asset tokenization.
+  [repository →](https://github.com/TODD43/td-rwa-tokenization)
 
-[GitHub](https://github.com/TODD43) · [WhatsApp](https://wa.me/254746103062)
+### capabilities
 
-`Kenya · Global`
+**Smart Contracts** · **DeFi** · **Web3 Payments** · **NFT** · **RWA** · **Blockchain Verification** · **Enterprise Blockchain**
 
----
+### stack
 
-### a note on the visual
+`Solidity` · `JavaScript` · `TypeScript` · `React` · `Node.js` · `Ethereum` · `Base` · `EVM`
 
-The important part of this template is:
+### contact
 
-```text
-./assets/flow-field.svg
-```
+— [GitHub](https://github.com/TODD43) · [WhatsApp +254 746 103 062](https://wa.me/254746103062)
 
-That file is the **visual hero** at the top. We can replace `flow-field.svg` with a custom blue/cyan blockchain animation that fits your portfolio.
+### portfolio
 
-Your final structure becomes:
-
-```text
-TODD43/
-├── README.md
-└── assets/
-    └── flow-field.svg
-```
-
-This is actually the direction I'd recommend for you: **one beautiful visual, very little clutter, concise project descriptions, and direct links to your work.**
+[view the full portfolio →](https://github.com/TODD43)
