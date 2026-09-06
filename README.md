@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TODD43/TODD43/main/assets/todd_adrian_hero.gif" alt="Todd Adrian — Blockchain and Web3 Developer" width="100%">
+<img src="https://raw.githubusercontent.com/TODD43/TODD43/main/assets/todd_adrian_hero.gif" width="100%" alt="Todd Adrian — Blockchain & Web3 Developer">
 
-<br>
+<br><br>
 
-# TODD ADRIAN
+# <span>**TODD ADRIAN**</span>
 
 ### Blockchain & Web3 Developer
 
@@ -13,11 +13,11 @@
 <br>
 
 <a href="https://github.com/TODD43">
-<img src="https://img.shields.io/badge/GitHub-TODD43-071426?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-TODD43-0B72E7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://wa.me/254746103062">
-<img src="https://img.shields.io/badge/WhatsApp-%2B254%20746%20103%20062-25D366?style=for-the-badge&logo=whatsapp&logoColor=ffffff" alt="WhatsApp">
+<img src="https://img.shields.io/badge/WhatsApp-%2B254%20746%20103%20062-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
 
 <br><br>
@@ -28,23 +28,26 @@
 
 ---
 
-# ABOUT
+## ABOUT
+
+### I build blockchain products that solve real problems.
 
 I'm **Todd Adrian**, a blockchain and Web3 developer based in Kenya.
 
-I design and build blockchain-powered products and integrations for businesses, startups, fintechs and Web3 teams.
+I design and build practical blockchain products and integrations for businesses, startups, fintechs and Web3 teams.
 
-My focus is on turning blockchain technology into **useful commercial systems** rather than adding blockchain where it does not provide a meaningful advantage.
+My work focuses on:
 
-### Core areas
+* Smart contract development
+* Decentralized applications
+* DeFi systems
+* Stablecoin payments
+* NFT platforms
+* Real-world asset tokenization
+* Blockchain verification
+* Enterprise blockchain integration
 
-**Smart Contracts**
-**DeFi Applications**
-**Web3 Payments**
-**NFT Systems**
-**RWA Tokenization**
-**Blockchain Verification**
-**Enterprise Blockchain Integration**
+> **Blockchain where it creates measurable value.**
 
 ---
 
@@ -63,13 +66,13 @@ A non-custodial stablecoin payment prototype designed around business invoicing,
 **Features**
 
 * On-chain invoice creation
-* USDC payment flow
+* USDC payments
 * Wallet connection
 * Payment verification
 * Shareable invoice flow
 * Blockchain transaction verification
 
-### Repository
+**Repository**
 
 [**VIEW TD PAY →**](https://github.com/TODD43/td-pay)
 
@@ -89,12 +92,12 @@ A decentralized staking demonstration featuring smart-contract deposits, withdra
 
 * Stake
 * Unstake
-* Rewards
+* Reward accounting
 * Balance tracking
 * Wallet integration
-* Smart-contract interactions
+* Smart-contract interaction
 
-### Repository
+**Repository**
 
 [**VIEW TD STAKING →**](https://github.com/TODD43/td-staking-dapp)
 
@@ -118,7 +121,7 @@ A blockchain-based event ticketing and digital membership concept using NFTs.
 * Event passes
 * Wallet interaction
 
-### Repository
+**Repository**
 
 [**VIEW TD NFT TICKETING →**](https://github.com/TODD43/td-nft-ticketing)
 
@@ -137,14 +140,14 @@ A blockchain-based registry for issuing, verifying and revoking digital credenti
 **Features**
 
 * Credential issuance
-* Verification
+* Credential verification
 * Document hashing
 * Revocation
 * Public verification
 
 Sensitive source documents are not intended to be stored directly on a public blockchain.
 
-### Repository
+**Repository**
 
 [**VIEW TD CREDENTIAL REGISTRY →**](https://github.com/TODD43/td-certificate-registry)
 
@@ -172,11 +175,12 @@ An independent blockchain provenance concept exploring traceable digital records
 ### Conceptual references
 
 [0000345 OneApp](https://0000345.oneapp.dev)
+
 [RedTree-Ke](https://www.redtree-ke.com)
 
 TD SupplyChain is an independent technology concept developed by **Todd Adrian**. These references do not imply ownership, partnership, endorsement, affiliation or authorization.
 
-### Repository
+**Repository**
 
 [**VIEW TD SUPPLYCHAIN →**](https://github.com/TODD43/td-supplychain-dapp)
 
@@ -201,23 +205,23 @@ A technical demonstration of controlled real-world asset tokenization using bloc
 * Emergency pause
 * Supply controls
 
-### Repository
+**Repository**
 
-[**VIEW TD RWA →**](https://github.com/TODD43/td-rwa-tokenization)
+[**VIEW TD RWA TOKENIZATION →**](https://github.com/TODD43/td-rwa-tokenization)
 
 ---
 
 # CAPABILITIES
 
-### SMART CONTRACTS
+### Smart Contracts
 
 Custom Solidity contracts, access control, validation, state transitions and deployment workflows.
 
-### DEFI
+### DeFi
 
-Staking, rewards, decentralized financial interfaces and protocol integrations.
+Staking, rewards, financial interfaces and protocol integrations.
 
-### WEB3 PAYMENTS
+### Web3 Payments
 
 Stablecoin invoices, payment links, wallet payments and on-chain verification.
 
@@ -225,11 +229,11 @@ Stablecoin invoices, payment links, wallet payments and on-chain verification.
 
 Collections, event passes, memberships and blockchain-based digital ownership.
 
-### RWA & TOKENIZATION
+### RWA & Tokenization
 
 Digital and real-world asset infrastructure with configurable issuance and transfer controls.
 
-### ENTERPRISE BLOCKCHAIN
+### Enterprise Blockchain
 
 Provenance, verification, asset tracking and blockchain modules for existing systems.
 
@@ -279,39 +283,26 @@ DEPLOYMENT
 ITERATION
 ```
 
-### Principle
+> **Build the right blockchain system for the problem.**
 
-> **Blockchain where it creates measurable value.**
-
-I focus on using decentralization, programmable ownership, transparency, verification and on-chain settlement where those capabilities provide a meaningful advantage.
+I focus on using blockchain where decentralization, programmable ownership, transparency, verification or on-chain settlement provides a meaningful advantage.
 
 ---
 
-# DEVELOPMENT PRINCIPLES
+# WHY BLOCKCHAIN
 
-**01 — Security**
-
-Treat permissions and sensitive state transitions as core engineering concerns.
-
-**02 — Simplicity**
-
-Prefer understandable architecture over unnecessary complexity.
-
-**03 — Business Value**
-
-Blockchain should solve an actual problem or create a measurable technical advantage.
-
-**04 — Transparency**
-
-Clearly communicate assumptions, deployment conditions and limitations.
-
-**05 — Testing**
-
-Prototype and testnet systems should be validated before production deployment.
+| Capability       | Example                              |
+| ---------------- | ------------------------------------ |
+| **Ownership**    | Programmable digital asset ownership |
+| **Verification** | Independently verifiable records     |
+| **Settlement**   | Programmable on-chain payments       |
+| **Transparency** | Shared and auditable state           |
+| **Tokenization** | Digital representation of assets     |
+| **Automation**   | Smart-contract-based business logic  |
 
 ---
 
-# PORTFOLIO MATRIX
+# PORTFOLIO
 
 | Project                    | Domain              | Technology            | Status    |
 | -------------------------- | ------------------- | --------------------- | --------- |
@@ -321,6 +312,30 @@ Prototype and testnet systems should be validated before production deployment.
 | **TD Credential Registry** | Verification        | Solidity / EVM        | Prototype |
 | **TD SupplyChain**         | Enterprise          | Solidity / EVM        | Prototype |
 | **TD RWA Tokenization**    | Tokenization        | Solidity / EVM        | Prototype |
+
+---
+
+# DEVELOPMENT PRINCIPLES
+
+### Security
+
+Permissions and sensitive state transitions are treated as core engineering concerns.
+
+### Simplicity
+
+Prefer clear architecture over unnecessary complexity.
+
+### Business Value
+
+Blockchain should solve an actual problem or create a meaningful advantage.
+
+### Transparency
+
+Clearly communicate assumptions, limitations and deployment conditions.
+
+### Testing
+
+Prototype and testnet systems should be validated before production deployment.
 
 ---
 
@@ -344,7 +359,7 @@ ENTERPRISE INTEGRATION
 
 **DApp Development**
 
-**DeFi Systems**
+**DeFi Applications**
 
 **Web3 Payment Integrations**
 
@@ -352,9 +367,11 @@ ENTERPRISE INTEGRATION
 
 **RWA & Tokenization**
 
-**Blockchain Verification Systems**
+**Blockchain Verification**
 
 **Enterprise Blockchain Integration**
+
+**Custom Blockchain Systems**
 
 ---
 
@@ -371,11 +388,11 @@ ENTERPRISE INTEGRATION
 <br>
 
 <a href="https://wa.me/254746103062">
-<img src="https://img.shields.io/badge/WhatsApp-%2B254%20746%20103%20062-25D366?style=for-the-badge&logo=whatsapp&logoColor=ffffff" alt="WhatsApp">
+<img src="https://img.shields.io/badge/WhatsApp-%2B254%20746%20103%20062-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
 
 <a href="https://github.com/TODD43">
-<img src="https://img.shields.io/badge/GitHub-TODD43-071426?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-TODD43-071426?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <br><br>
@@ -392,14 +409,7 @@ The repositories presented on this profile include **portfolio and technical dem
 
 Some projects may use testnets, third-party libraries, APIs or development infrastructure. They should not automatically be interpreted as audited production financial systems, regulated financial products, investment products or security guarantees.
 
-Production deployments should receive appropriate:
-
-* Smart-contract review
-* Security testing
-* Infrastructure testing
-* Monitoring
-* Legal/compliance review
-* Independent audit where appropriate
+Production deployments should receive appropriate smart-contract review, security testing, infrastructure testing, monitoring and legal/compliance review.
 
 Third-party technologies remain subject to their respective licenses and terms.
 
@@ -425,8 +435,6 @@ No claim is made regarding ownership or use of proprietary source code belonging
 ### BUILD · INTEGRATE · DEPLOY
 
 **Todd Adrian**
-
-<br>
 
 [GitHub](https://github.com/TODD43) · [WhatsApp](https://wa.me/254746103062)
 
