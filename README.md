@@ -60,6 +60,32 @@ My work spans:
 
 > **Blockchain where it creates measurable value.**
 
+---
+
+# ACHIEVEMENTS
+
+<div align="center">
+
+<a href="https://lablab.ai" target="_blank">
+  <img src="https://lablab.ai" alt="Profile Pro Badge" height="50" style="margin: 0 4px;">
+</a>
+<a href="https://lablab.ai" target="_blank">
+  <img src="https://lablab.ai" alt="First Hackathon Badge" height="50" style="margin: 0 4px;">
+</a>
+<a href="https://lablab.ai" target="_blank">
+  <img src="https://lablab.ai" alt="Five Hackathons Badge" height="50" style="margin: 0 4px;">
+</a>
+<a href="https://lablab.ai" target="_blank">
+  <img src="https://lablab.ai" alt="First Team Badge" height="50" style="margin: 0 4px;">
+</a>
+<a href="https://lablab.ai" target="_blank">
+  <img src="https://lablab.ai" alt="First Submission Badge" height="50" style="margin: 0 4px;">
+</a>
+
+</div>
+
+<br>
+
 <div align="center">
 
 <a href="https://wa.me/254746103062">
@@ -463,7 +489,7 @@ ENTERPRISE INTEGRATION
 
 The projects presented on this profile include **portfolio and technical demonstration systems**.
 
-Some projects may use testnets, third-party libraries, APIs or development infrastructure. They should not automatically be interpreted as audited production financial systems, regulated financial products, investment products or security guarantees.
+Some projects may use testnets, third-party libraries, APIs or development infrastructure. They should not automatically be interpreted as audited production financial systems, regulated financial products, or complete solutions ready for production deployment.
 
 Production deployments should receive appropriate:
 
@@ -509,7 +535,7 @@ No claim is made regarding ownership or use of proprietary source code belonging
 GitHub
 </a>
 
-  ·  
+  ·  
 
 <a href="https://wa.me/254746103062">
 WhatsApp
