@@ -1,0 +1,251 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
+  <title id="title">Builder badge</title>
+  <desc id="desc">A bronze shield badge for a builder submission award with a crate and tools.</desc>
+  <defs>
+    <linearGradient id="bronzeMetal" x1="0" x2="1">
+      <stop offset="0%" stop-color="#f1d7c2"/>
+      <stop offset="35%" stop-color="#ae7d5d"/>
+      <stop offset="60%" stop-color="#7d5643"/>
+      <stop offset="100%" stop-color="#e9c9a6"/>
+    </linearGradient>
+    <linearGradient id="shadowMetal" x1="0" x2="1">
+      <stop offset="0%" stop-color="#f4e1d0"/>
+      <stop offset="100%" stop-color="#6a4737"/>
+    </linearGradient>
+    <linearGradient id="crateWood" x1="0" x2="1">
+      <stop offset="0%" stop-color="#b98f63"/>
+      <stop offset="50%" stop-color="#8e684a"/>
+      <stop offset="100%" stop-color="#675134"/>
+    </linearGradient>
+  </defs>
+
+  <path d="M300 40l185 55v155c0 118-66 177-185 230C181 427 115 368 115 250V95l185-55z" fill="url(#bronzeMetal)" stroke="#4d342b" stroke-width="10"/>
+  <path d="M300 66l150 45v145c0 96-52 144-150 195-98-51-150-99-150-195V111l150-45z" fill="none" stroke="#efd7be" stroke-width="8" opacity="0.9"/>
+
+  <g fill="#d7ab82" stroke="#4b362d" stroke-width="6">
+    <path d="M150 300h300v150H150z" opacity="0.14"/>
+  </g>
+
+  <g transform="translate(0 5)">
+    <rect x="175" y="180" width="250" height="150" rx="6" fill="url(#crateWood)" stroke="#4c392d" stroke-width="8"/>
+    <rect x="191" y="195" width="218" height="120" rx="4" fill="#7e5a3d" opacity="0.7"/>
+    <g stroke="#4a352d" stroke-width="5">
+      <line x1="202" y1="208" x2="202" y2="298"/>
+      <line x1="248" y1="208" x2="248" y2="298"/>
+      <line x1="294" y1="208" x2="294" y2="298"/>
+      <line x1="340" y1="208" x2="340" y2="298"/>
+      <line x1="193" y1="222" x2="390" y2="222"/>
+      <line x1="193" y1="256" x2="390" y2="256"/>
+      <line x1="193" y1="290" x2="390" y2="290"/>
+    </g>
+    <g fill="#c7a17b" stroke="#563d2e" stroke-width="6">
+      <rect x="227" y="133" width="32" height="48" rx="4"/>
+      <rect x="341" y="133" width="32" height="48" rx="4"/>
+      <rect x="275" y="133" width="50" height="48" rx="4"/>
+    </g>
+    <g fill="#949a9e" stroke="#4a3b2e" stroke-width="6">
+      <rect x="244" y="140" width="17" height="34" rx="3"/>
+      <rect x="358" y="140" width="17" height="34" rx="3"/>
+    </g>
+    <g fill="#d9c4a5" stroke="#4e3c2f" stroke-width="6">
+      <path d="M250 147l-35 36 20 11 35-36z"/>
+      <path d="M350 147l35 36-20 11-35-36z"/>
+    </g>
+  </g>
+
+  <g>
+    <g transform="translate(135, 120) rotate(-18)">
+      <path d="M0 0l28 120h-40l-18-40 30-80z" fill="#d7b08a" stroke="#4b352d" stroke-width="7"/>
+      <path d="M-4 26l48 0" stroke="#4b352d" stroke-width="8"/>
+      <path d="M0 0l40 0" stroke="#4b352d" stroke-width="8"/>
+      <path d="M9 44l-12 56" stroke="#4b352d" stroke-width="8" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(462, 120) rotate(18)">
+      <path d="M0 0l-24 124h40l18-42L0 0z" fill="#d7b08a" stroke="#4b352d" stroke-width="7"/>
+      <path d="M0 26l-46 0" stroke="#4b352d" stroke-width="8"/>
+      <path d="M0 0l-40 0" stroke="#4b352d" stroke-width="8"/>
+      <path d="M-8 44l12 56" stroke="#4b352d" stroke-width="8" stroke-linecap="round"/>
+    </g>
+  </g>
+
+  <g transform="translate(0 2)">
+    <g transform="translate(110 245) rotate(-18)">
+      <circle cx="0" cy="0" r="26" fill="#a7adb0" stroke="#453a34" stroke-width="6"/>
+      <path d="M-4 32L14 10 42 38" fill="none" stroke="#453a34" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <g transform="translate(490 255) rotate(18)">
+      <circle cx="0" cy="0" r="26" fill="#a7adb0" stroke="#453a34" stroke-width="6"/>
+      <path d="M-4 32L14 10 42 38" fill="none" stroke="#453a34" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+
+  <g>
+    <path d="M250 400l35 26 78-82 29 24-104 110-64-56 26-22z" fill="#b39e82" stroke="#4a352e" stroke-width="7"/>
+    <circle cx="252" cy="385" r="18" fill="#8d6250" stroke="#4a352e" stroke-width="5"/>
+    <circle cx="344" cy="330" r="16" fill="#8d6250" stroke="#4a352e" stroke-width="5"/>
+    <circle cx="386" cy="358" r="12" fill="#8d6250" stroke="#4a352e" stroke-width="5"/>
+  </g>
+
+  <g fill="#2c1f1a" text-anchor="middle">
+    <text x="300" y="448" font-size="58" font-weight="900" font-family="Arial, Helvetica, sans-serif">BUILDER</text>
+    <text x="300" y="495" font-size="28" font-weight="700" font-family="Arial, Helvetica, sans-serif">Published your</text>
+    <text x="300" y="530" font-size="30" font-weight="900" font-family="Arial, Helvetica, sans-serif">first submission</text>
+  </g>
+</svg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+																																																																																																																																																																																																																																																																																																									

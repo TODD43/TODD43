@@ -1,0 +1,216 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
+  <title id="title">5x Hacker badge</title>
+  <desc id="desc">A silver circular hackathon participation badge with a flame and the number 5.</desc>
+  <defs>
+    <radialGradient id="silverPatch" cx="35%" cy="32%" r="85%">
+      <stop offset="0%" stop-color="#f7f7f7"/>
+      <stop offset="18%" stop-color="#dfe4e7"/>
+      <stop offset="55%" stop-color="#a8adb3"/>
+      <stop offset="100%" stop-color="#696d72"/>
+    </radialGradient>
+    <linearGradient id="flameGrad" x1="0" x2="1">
+      <stop offset="0%" stop-color="#f8f8f8"/>
+      <stop offset="45%" stop-color="#d6d9dc"/>
+      <stop offset="100%" stop-color="#7d8185"/>
+    </linearGradient>
+  </defs>
+  <circle cx="300" cy="300" r="270" fill="url(#silverPatch)" stroke="#868b90" stroke-width="12"/>
+  <circle cx="300" cy="300" r="238" fill="none" stroke="#efefef" stroke-width="8" opacity="0.9"/>
+  <g opacity="0.9" fill="none" stroke="#d0d6d9" stroke-width="7">
+    <circle cx="300" cy="42" r="16"/>
+    <circle cx="300" cy="558" r="16"/>
+    <circle cx="42" cy="300" r="16"/>
+    <circle cx="558" cy="300" r="16"/>
+    <circle cx="100" cy="100" r="12"/>
+    <circle cx="500" cy="100" r="12"/>
+    <circle cx="500" cy="500" r="12"/>
+    <circle cx="100" cy="500" r="12"/>
+  </g>
+
+  <g transform="translate(0 10)">
+    <path d="M201 216c-30 22-47 54-47 88 0 53 36 87 78 96-10-19-17-42-17-61 0-35 18-61 46-78-17-9-36-19-60-45z" fill="url(#flameGrad)" opacity="0.8"/>
+    <path d="M399 216c30 22 47 54 47 88 0 53-36 87-78 96 10-19 17-42 17-61 0-35-18-61-46-78 17-9 36-19 60-45z" fill="url(#flameGrad)" opacity="0.8"/>
+    <path d="M270 120c-20 42-19 72-10 124 12-22 30-42 55-58-15-17-27-38-45-66z" fill="url(#flameGrad)" opacity="0.9"/>
+    <path d="M332 120c20 42 19 72 10 124-12-22-30-42-55-58 15-17 27-38 45-66z" fill="url(#flameGrad)" opacity="0.9"/>
+    <g fill="url(#flameGrad)">
+      <path d="M163 278c14 42 31 71 64 86-8-33-10-62-1-93-26 2-46 4-63 7z"/>
+      <path d="M437 278c-14 42-31 71-64 86 8-33 10-62 1-93 26 2 46 4 63 7z"/>
+      <path d="M300 137c-38 35-52 72-53 108 0 58 35 107 95 116-10-60 10-126-42-224z" opacity="0.9"/>
+    </g>
+    <path d="M300 155c42 34 65 76 65 124 0 70-50 103-112 111 20-10 39-15 52-35 16-25 38-120-5-200z" fill="#e8ebee" opacity="0.8"/>
+  </g>
+
+  <g transform="translate(0 8)">
+    <path d="M173 225c18-16 35-26 58-33 13 22 25 34 49 48-12 7-24 16-34 28-19 22-28 46-29 73 0 14 2 25 7 37-32-10-51-30-60-62-10-38-2-70 9-91z" fill="#b3b8bc" opacity="0.6"/>
+    <path d="M427 225c-18-16-35-26-58-33-13 22-25 34-49 48 12 7 24 16 34 28 19 22 28 46 29 73 0 14-2 25-7 37 32-10 51-30 60-62 10-38 2-70-9-91z" fill="#b3b8bc" opacity="0.6"/>
+  </g>
+
+  <g>
+    <rect x="205" y="185" width="190" height="132" rx="18" fill="#d7dbde" stroke="#6a6f74" stroke-width="8"/>
+    <rect x="222" y="203" width="156" height="96" rx="14" fill="#cad0d4" stroke="#5b6066" stroke-width="6"/>
+    <text x="300" y="285" font-size="94" font-weight="900" font-family="Arial, Helvetica, sans-serif" text-anchor="middle" fill="#2d2d2d">5</text>
+  </g>
+
+  <g fill="#2d2d2d" text-anchor="middle">
+    <text x="300" y="432" font-size="53" font-weight="900" font-family="Arial, Helvetica, sans-serif">5x HACKER</text>
+    <text x="300" y="478" font-size="28" font-weight="700" font-family="Arial, Helvetica, sans-serif">Participated in 5</text>
+    <text x="300" y="514" font-size="28" font-weight="700" font-family="Arial, Helvetica, sans-serif">hackathons</text>
+  </g>
+</svg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+																																																																																																																																																																																																																																																																																																									

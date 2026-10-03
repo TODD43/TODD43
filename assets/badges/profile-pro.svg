@@ -1,0 +1,307 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
+  <title id="title">Profile Pro badge</title>
+  <desc id="desc">A silver circular profile completion badge for a developer profile with a checkmark.</desc>
+  <defs>
+    <radialGradient id="silverBg" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#f7f7f7"/>
+      <stop offset="18%" stop-color="#dfe3e7"/>
+      <stop offset="50%" stop-color="#a5a9ad"/>
+      <stop offset="100%" stop-color="#6e7378"/>
+    </radialGradient>
+    <linearGradient id="metalEdge" x1="0" x2="1">
+      <stop offset="0%" stop-color="#f5f5f5"/>
+      <stop offset="60%" stop-color="#7f858b"/>
+      <stop offset="100%" stop-color="#d9dfe4"/>
+    </linearGradient>
+  </defs>
+  <circle cx="300" cy="300" r="260" fill="url(#silverBg)" stroke="#8b9196" stroke-width="12"/>
+  <circle cx="300" cy="300" r="232" fill="none" stroke="#e6e6e6" stroke-width="8" opacity="0.9"/>
+  <g fill="none" stroke="#d3d9dc" stroke-width="9" opacity="0.9">
+    <circle cx="300" cy="45" r="18"/>
+    <circle cx="300" cy="555" r="18"/>
+    <circle cx="45" cy="300" r="18"/>
+    <circle cx="555" cy="300" r="18"/>
+    <circle cx="110" cy="110" r="14"/>
+    <circle cx="490" cy="110" r="14"/>
+    <circle cx="110" cy="490" r="14"/>
+    <circle cx="490" cy="490" r="14"/>
+  </g>
+
+  <g transform="translate(0 8)">
+    <path d="M220 283c0-60 40-96 80-96s80 36 80 96v18H220v-18z" fill="#c9ced3" opacity="0.8"/>
+    <path d="M196 286c0-64 42-110 104-110s104 46 104 110v16H196v-16z" fill="#aeb6bc" opacity="0.75"/>
+    <circle cx="300" cy="175" r="63" fill="#d7dce0"/>
+    <path d="M243 168c10-33 34-52 57-52 31 0 57 24 63 60-18-18-43-28-71-28-18 0-34 6-49 20z" fill="#a2a9af" opacity="0.7"/>
+    <path d="M235 340c26-26 49-38 65-38s39 12 65 38v52H235v-52z" fill="#d0d5d9"/>
+    <circle cx="300" cy="187" r="55" fill="#dfe3e8" stroke="#80868d" stroke-width="8"/>
+    <path d="M246 180c10-26 28-41 56-41 27 0 47 16 58 40-16-12-36-18-58-18-21 0-38 8-56 19z" fill="#7d868d" opacity="0.74"/>
+    <path d="M230 335c18-18 37-28 70-28s52 10 70 28v48H230v-48z" fill="#d9dee1" stroke="#81878d" stroke-width="7"/>
+    <path d="M270 260h60v28h-60z" fill="#b7bec4" opacity="0.8"/>
+    <path d="M255 290c17-13 32-20 45-20s28 7 45 20v50h-90v-50z" fill="#b0b8bf" opacity="0.8"/>
+    <path d="M203 233c14-36 38-61 97-61 57 0 80 25 91 61" fill="none" stroke="#627279" stroke-width="12" stroke-linecap="round" opacity="0.38"/>
+  </g>
+
+  <g transform="translate(0 -8)">
+    <circle cx="300" cy="325" r="80" fill="#dfe2e8" stroke="#7e8389" stroke-width="7"/>
+    <path d="M257 328l35 35 75-90" fill="none" stroke="#3e4f3b" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M272 304l29 31" fill="none" stroke="#dfe2e8" stroke-width="14" stroke-linecap="round"/>
+    <path d="M285 322l35 39" fill="none" stroke="#dfe2e8" stroke-width="14" stroke-linecap="round"/>
+  </g>
+
+  <g fill="#2d2d2d" text-anchor="middle">
+    <text x="300" y="470" font-size="52" font-weight="900" font-family="Arial, Helvetica, sans-serif" letter-spacing="3">PROFILE PRO</text>
+    <text x="300" y="515" font-size="26" font-weight="700" font-family="Arial, Helvetica, sans-serif">Completed your</text>
+    <text x="300" y="548" font-size="32" font-weight="900" font-family="Arial, Helvetica, sans-serif">profile to 100%</text>
+  </g>
+</svg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+																																																																																																																																																																																																																																																																									
